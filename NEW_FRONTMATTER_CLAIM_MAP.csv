@@ -1,0 +1,14 @@
+﻿claim_id,current_file,exact_anchor,line,baseline_evidence_ids,scope
+FINAL-ABS-01,MAIN_FINAL_REFOCUSED.tex,can preserve selected outputs while intermediate transformations violate intended semantics,39,RQ2-01;RQ2-02,"Selected archived record, controlled construction"
+FINAL-ABS-02,MAIN_FINAL_REFOCUSED.tex,only when it represents the intended boundary and execution instance,39,METH-01;SUP-A03,Entitlement is relative to audited binding; not source certification
+FINAL-ABS-03,MAIN_FINAL_REFOCUSED.tex,It specifies stage relations and evidence roles,39,INT-02;INT-03;INT-04,Specified workflow; no claimed automation or measured effort saving
+FINAL-ABS-04,MAIN_FINAL_REFOCUSED.tex,distinguish semantic departures from output-equivalent command records at archived resolution,39,RQ2-01;RQ2-02,"B3 frozen channels, keys and resolution"
+FINAL-ABS-05,MAIN_FINAL_REFOCUSED.tex,through forward-kinematic reconstruction of sampled commanded joints,39,RQ4-01;RQ4-02,Software reconstruction; not physical TCP metrology
+FINAL-ABS-06,MAIN_FINAL_REFOCUSED.tex,source review and witness-order intervention support a misbound-diagnostic diagnosis,39,RQ3-02;RQ3-03,Source-assisted cause account; checker alone does not identify cause
+FINAL-ABS-07,MAIN_FINAL_REFOCUSED.tex,a separate seeded conversion tests a transformation violation,39,RQ3-05,LC-T positive control; not natural discovery
+FINAL-ABS-08,MAIN_FINAL_REFOCUSED.tex,the pre-fix implementation yields a qualified FAIL and the fixed implementation yields PASS,39,RQ3-06,"LC-ND2410 one upstream-reported defect, fixed source pair"
+FINAL-CON-01,MAIN_FINAL_REFOCUSED.tex,constructing auditable internal semantic test oracles from controller-native observations,716,INT-02;INT-03;INT-04,Concrete construction method
+FINAL-CON-02,MAIN_FINAL_REFOCUSED.tex,G93 distinguishes intermediate semantic departures despite equality of selected command records,718,RQ2-01;RQ2-02,Archived resolution restriction retained
+FINAL-CON-03,MAIN_FINAL_REFOCUSED.tex,Five-axis pose separates TCP-position agreement from tool-orientation preservation,718,RQ4-01;RQ4-02,Commanded-joint reconstruction
+FINAL-CON-04,MAIN_FINAL_REFOCUSED.tex,five independently conclusive failures are withheld,718,RQ5-03,Mandatory-role opportunity cost; no improvement claim
+FINAL-CON-05,MAIN_FINAL_REFOCUSED.tex,Source-aware comparisons tie when supplied equally informative evidence,718,SUP-S02;DISC-03,Measured source-aware/STRONG stage-verdict parity
